@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
-	url: "https://example.com/",
+	title: "Coffee",
+	url: "https://yotsugi.io/coffee/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "I am writing about my coffee experiences.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "ylabur",
+		email: "ylabur@users.noreply.github.com",
+		url: "https://yotsugi.io/"
 	}
 }

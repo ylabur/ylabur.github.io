@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/blog/firstpost/</loc>
+		<loc>https://yotsugi.io/blog/firstpost/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/secondpost/</loc>
+		<loc>https://yotsugi.io/blog/secondpost/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/thirdpost/</loc>
+		<loc>https://yotsugi.io/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/fourthpost/</loc>
+		<loc>https://yotsugi.io/blog/fourthpost/</loc>
 		<lastmod>2018-09-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/about/</loc>
+		<loc>https://yotsugi.io/about/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/</loc>
+		<loc>https://yotsugi.io/blog/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/</loc>
+		<loc>https://yotsugi.io/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/</loc>
+		<loc>https://yotsugi.io/tags/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/another-tag/</loc>
+		<loc>https://yotsugi.io/tags/another-tag/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/number-2/</loc>
+		<loc>https://yotsugi.io/tags/number-2/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/second-tag/</loc>
+		<loc>https://yotsugi.io/tags/second-tag/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/posts-with-two-tags/</loc>
+		<loc>https://yotsugi.io/tags/posts-with-two-tags/</loc>
 		<lastmod>2024-05-19</lastmod>
 	</url>
 </urlset>
