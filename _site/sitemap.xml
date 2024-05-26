@@ -22,42 +22,57 @@
 	</url>
 	
 	<url>
-		<loc>https://yotsugi.io/about/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<loc>https://yotsugi.io/blog/2024-04-25/post/</loc>
+		<lastmod>2024-04-25</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://yotsugi.io/blog/</loc>
-		<lastmod>2024-05-19</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://yotsugi.io/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<lastmod>2024-05-23</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://yotsugi.io/tags/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<lastmod>2024-05-23</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://yotsugi.io/tags/another-tag/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<lastmod>2024-05-23</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://yotsugi.io/tags/number-2/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<lastmod>2024-05-23</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://yotsugi.io/tags/coffee/</loc>
+		<lastmod>2024-05-23</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://yotsugi.io/tags/travel/</loc>
+		<lastmod>2024-05-23</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://yotsugi.io/tags/second-tag/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<lastmod>2024-05-23</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://yotsugi.io/tags/posts-with-two-tags/</loc>
-		<lastmod>2024-05-19</lastmod>
+		<lastmod>2024-05-23</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://yotsugi.io/</loc>
+		<lastmod>2024-05-26</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://yotsugi.io/about/</loc>
+		<lastmod>2024-05-26</lastmod>
 	</url>
 </urlset>
